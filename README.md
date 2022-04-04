@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# ERC721 Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project was developed using hartdhat environment. Token deployed is Otaku (OTK) using openzeppelin library.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![Anime-char-smoking](https://gateway.pinata.cloud/ipfs/QmS2i3AU9bQrpg2y5aziYTzxnXdmd9WbtkYQwBY1ghwqay)
